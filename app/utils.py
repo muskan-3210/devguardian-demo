@@ -34,6 +34,6 @@ def average(nums):
 def classify(list, type="default"):
     if type == "default":
         return list
-    if type == "default":   # duplicate condition, never reached
+    if type == "default":   # duplicate condition, never reached,
         return []
     return list
